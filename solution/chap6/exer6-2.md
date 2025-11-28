@@ -8,7 +8,7 @@ where the basis $\{|x\rangle\}$ is orthonormal. We could calculate the operator 
 $$
 \begin{align}
 2|\psi\rangle\langle\psi| - I &= \frac{2}{N}\left(\sum_{x=0}^{N-1}|x\rangle \right)\left(\sum_{x'=0}^{N-1}\langle x'|\right) - I \\
-&= \frac{2}{N}\sum_{x, x'=0}^{N-1}|x\rangle \langle x'| - \sum_{x=0}^{N-1}|x\rangle \langle x|\\
+&= \frac{2}{N}\sum_{x, x'=0}^{N-1}|x\rangle \langle x'| - \sum_{x=0}^{N-1}|x\rangle \langle x|
 \end{align}\tag{2}\label{2}
 $$
 if it applies to a general state $\sum_k\alpha_k |k\rangle$, we have 
@@ -27,4 +27,3 @@ Note that change the index would not change the state, so we could re-write eq. 
 $$
 (2|\psi\rangle\langle\psi| - I)\sum_k\alpha_k |k\rangle  = \sum_{k=0}^{N-1}2\langle \alpha\rangle|k\rangle - \sum_{k=0}^{N-1}\alpha_k|k\rangle = \sum_{k=0}^{N-1}\left[2\langle \alpha\rangle-\alpha_k\right]|k\rangle\tag{4}
 $$
-

@@ -10,9 +10,9 @@ import pathlib
 import sys
 sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 
-project = 'NielsenChuang Solution'
-html_title = "NielsenChuang Solution"
-copyright = '2022, dawei-zh'
+project = 'nielsen-chuang-solution'
+html_title = "Nielsen and Chuang Solution"
+copyright = 'dawei-zh' #'2025, dawei-zh'
 author = 'dawei-zh'
 
 # -- General configuration ---------------------------------------------------
