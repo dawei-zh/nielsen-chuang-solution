@@ -1,4 +1,4 @@
-# Chapter 6
+# Chapter 2 Extension
 
 Here are a list of all extended material for Chapter 2. 
 

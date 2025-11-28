@@ -34,4 +34,3 @@ Note that change the index would not change the state, so we could re-write eq. 
 $$
 (2|\psi\rangle\langle\psi| - I)\sum_k\alpha_k |k\rangle  = \sum_{k=0}^{N-1}2\langle \alpha\rangle|k\rangle - \sum_{k=0}^{N-1}\alpha_k|k\rangle = \sum_{k=0}^{N-1}\left[2\langle \alpha\rangle-\alpha_k\right]|k\rangle
 $$(eqn:6.2.4)
-

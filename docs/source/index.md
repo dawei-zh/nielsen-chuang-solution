@@ -13,7 +13,7 @@ Welcome! Here I include my solutions to exercises and questions in the textbook 
 Chapter2/index
 Chapter4/index
 Chapter5/index
-Chapter6/indexs
+Chapter6/index
 Chapter8/index
 Chapter10/index
 ```
